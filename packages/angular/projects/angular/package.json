@@ -1,0 +1,17 @@
+{
+  "name": "@zoom-image/angular",
+  "version": "0.1.1",
+  "peerDependencies": {
+    "@angular/common": "^16.1.0",
+    "@angular/core": "^16.1.0"
+  },
+  "dependencies": {
+    "@zoom-image/core": "workspace:*",
+    "rxjs": "^7.8.1",
+    "tslib": "^2.6.1"
+  },
+  "sideEffects": false,
+  "publishConfig": {
+    "directory": "../../dist/angular"
+  }
+}

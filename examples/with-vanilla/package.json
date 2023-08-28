@@ -1,14 +1,15 @@
 {
   "name": "with-vanilla",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "vite"
   },
   "devDependencies": {
-    "@unocss/reset": "^0.54.1",
+    "@unocss/reset": "^0.54.3",
     "typescript": "^5.1.6",
-    "unocss": "^0.54.1",
-    "vite": "^4.4.7"
+    "unocss": "^0.54.3",
+    "vite": "^4.4.9"
   },
   "dependencies": {
     "@zoom-image/core": "latest"
